@@ -1,4 +1,4 @@
-package cc.vastsea.image_snapshot_app
+package cc.vastsea.to_you_app
 
 import io.flutter.embedding.android.FlutterActivity
 
